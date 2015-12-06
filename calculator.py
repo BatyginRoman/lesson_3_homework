@@ -1,6 +1,6 @@
 class Calculator:
     def __init__(self):
-        self.base_numeral_system = 10
+        self.base_numeral_system = 20
 
     def add(self, x, y):
         """This function adds two numbers"""
